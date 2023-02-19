@@ -4,12 +4,7 @@
 class Triangle
 {
 public:
-    /**
-     * Create a new Triangle object of side lengths 1, 1, and 1.
-     * @brief Default constructor.
-     * @see Triangle(const double a, const double b, const double c)
-     * @see Triangle(const Triangle& triangle)
-     */
+    //hi
     Triangle();
     /**
      * Create a new Triangle object from side lengths.
